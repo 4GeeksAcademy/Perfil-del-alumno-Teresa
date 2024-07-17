@@ -1,1 +1,132 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
 
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Teresa
+    last_name: Ullaguari
+
+    # Define yourself in 4-5 words
+    motto: Soy una persona muy constante 
+
+    # Focus
+    focus: Ser mi mejor version cada dia
+
+    # You have 1 paragraph to make a great impression, summarize your career
+    I have a professional career as a financial accountant, within which I have developed new methods of organization and optimization in the development of various processes within administration, making it more effective both in the process and in saving time in each process.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: 
+
+    # Contact Information
+    email: ttullaguari@gmail.com
+    phone: 627 10 85 91 #optional
+    website: a#optional
+    linkedin: Teresa Ullaguari Cajamarca #optional
+
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: example
+
+    twitter: #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: Intermedio
+
+      - idiom: 
+        level: 
+
+      - idiom: Spanish
+        level: Native
+
+    # Interests or hobbies
+    interests:
+      - item: Climbing
+
+      - item: read
+
+      - item: Cooking
+
+      - item: Constant training
+
+# Your previous education
+education:
+    - degree: ACCOUNTING SCIENCES
+      university: University of Spain
+      # optional
+     
+      time: 2021 - 2024
+      details: |
+       During my study journey I learned how to handle accounting PR,
+       resolution of incidents, taxes, treasury, bank transactions, accounting books,
+       payments in remittances, financial analysis, accounting entries, accounting reports, 
+       minutes of the day, forecast of monthly expenses. Human resoureces
+    - degree: TECHNICAL ACCOUNTING
+      university: University of Ecuador
+      # optional
+      me: 2006 - 2012
+      details: |
+       Account, carry out projects and adjustments in accounting accounts, 
+       journals, cash balances, review of documents such as invoices, delivery notes, 
+       and other types of documents. Archive, human resources. 
+# Your previous job experiences or volunteer
+experiences:
+    - role: accounting financial assistant
+      time: 2022 - Present
+      company: EALDE S:L
+      # optional
+      
+      details: |
+       Development of the entire financial area, payments to suppliers, expense forecasting,
+       preparation for tax payments, management of banks for bank reconciliations and payments,
+       management of accounting PR, management of payment platforms to reconcile payments with banks,
+       preparation of reports sums and balances, balance sheet, comparative balance, 
+       review and approval of department accessory purchases, make daily accounting entries, 
+       review accounting accounts, prepare biweekly and monthly payment files, 
+       support in the human resources area, resolution of various incidents, File.
+    - role: accounting assistant
+      time: 20"= - 2021
+      company: DESKO SPAIN
+      # optional
+     
+      details: |
+        Management of attorneys' agendas, reservation of flights and office meetings, 
+        management of travel expenses, management of petty cash, closing and accounting thereof,
+        Bank management for reconciliations, requesting and scheduling appointments for 
+        the corresponding notaries, customer collections, sending mass messages on collection days,
+         accounting PR management with Contasol, and others.
+    - 
+# Your project portfolio
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: 
+        # optional
+        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+skills:
+    toolset:
+      - name: Python
+        level: 70%
+
+      - name: Pandas
+        level: 70%
+
+      
