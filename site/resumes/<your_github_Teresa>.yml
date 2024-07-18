@@ -1,1 +1,70 @@
-
+basic_info: 
+  avatar: 
+  email: ttullaguari@gmail.com
+  first_name: Janneth Teresa
+  focus: learning
+  github: tere0715
+  interests: 
+    - 
+      item: Aprender IA, Data science
+    - 
+      item: Read
+    - 
+      item: watch series and documentaries
+  languages: 
+    - 
+      idiom: English
+      level: Intermedio
+    - 
+      idiom: Spanish
+      level: Native
+  last_name: Ullaguari
+  City: "Madrid"
+  phone: "627 10 85 91"
+  summary: |
+      During my professional career I have dedicated myself to administration, 
+      finance and accounting, aDuring my professional career I have dedicated myself to administration, 
+      dedication, organization, concentration, teamwork, which would be my qualities, 
+      within my professional career I have resolved many incidents, I have taken charge many times
+      when we had absence of management, managing to maintain a business balance, thanks to the professionalism 
+      from which I have been nourished all these years.
+  twitter: ~
+education: University
+  - 
+    degree: Higher FP in administration and finance
+    details: |
+        During my studies, I managed to acquire great management and analysis skills,
+        I obtained financial accounting knowledge, to be able to function within the financial area, 
+        in the fields of treasury, accounting, systems management, report analysis, taxes, human resources.
+    time: "2021 - 2024"
+    
+experiences: 
+  - 
+    company: "EALDE S:L"
+    company_logo: https://www.ealde.es/
+    details: |
+        My duties in this company are to keep accounting up to date, bank reconciliations,
+        merge banks with salesforce rp and payment gateways such as Flywire, stripe, virtual POS, 
+        physical POS, revolut, review supplier invoices, verify assigned numbers with salesforce, 
+        prepare biweekly and monthly remittances, forecast of monthly expenses, month closing, payroll payment, 
+        payment of remittances, resolution of incidents, reports of sums and balances, balance sheets, tax preparation,
+        collaboration with human resources, archive, several typical of the administrative area
+          
+    role: "financial accounting"
+    time: "2022 - Present"
+  - 
+    
+ 
+skills: 
+  toolset: 
+    - 
+      level: 75%
+      name: "Python"
+    - 
+      level: 10%
+      name: "HTML5 & CSS"
+    - 
+      level: 60%
+      name: "Canvas"
+skin: green
+template: online-cv
